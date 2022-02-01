@@ -12,7 +12,7 @@ namespace LearnCSharp
     {
         static void Main(string[] args)
         {
-         /*   try
+            try
             {
                 EmployeeInfo emp = new EmployeeInfo()
                 {
@@ -171,7 +171,7 @@ namespace LearnCSharp
             finally
             {
                 Console.ReadKey();
-            }*/
+            }
         }
     }
 
